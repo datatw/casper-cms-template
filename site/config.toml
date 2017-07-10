@@ -28,3 +28,8 @@ canonifyurls = true
   hideHUGOSupport = false
   [params.social]
     twitter = "your_twitter"
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+series = "series"

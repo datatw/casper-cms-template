@@ -1,6 +1,10 @@
 ---
 date: 2016-09-09T10:24:16-04:00
 title: Second Post
+tags: [ "Development", "Go", "fast", "Blogging" ]
+categories: [ "Development" ]
+series: [ "Go Web Dev" ]
+slug: post2
 ---
 
 
